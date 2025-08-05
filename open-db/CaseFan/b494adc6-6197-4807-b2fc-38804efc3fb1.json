@@ -10,7 +10,7 @@
   "color": [
     "WHITE"
   ],
-  "quantity": 1,
+  "quantity": 6,
   "min_airflow": 78.86,
   "max_airflow": null,
   "min_noise_level": 33.88,
